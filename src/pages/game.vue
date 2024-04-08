@@ -1,0 +1,7 @@
+<template>
+  <GameContainer/>
+</template>
+
+<script lang="ts" setup></script>
+
+<style></style>
